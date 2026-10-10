@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Hello! I am Adın Soyadın, a university student studying Computer Engineering.
+Hello! I am zeynep, a university student studying Computer Engineering.
 
 I am working to improve my programming and technical skills.
 
